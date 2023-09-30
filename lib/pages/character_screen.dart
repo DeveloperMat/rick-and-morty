@@ -74,7 +74,7 @@ class CharactersScreen extends StatelessWidget {
                       );
                     },
                     options: CarouselOptions(
-                      autoPlay: false,
+                      autoPlay: true,
                       scrollDirection: Axis.vertical,
                       height: MediaQuery.of(context).size.height * 0.60,
                       enlargeCenterPage: true,
