@@ -42,6 +42,7 @@ Esta vista muestra tarjetas de personajes y proporciona dos botones de paginaci�
 <p align="center">
 <img src="https://github.com/DeveloperMat/rick-and-morty/blob/main/assets/images/aplicacion/characters.jpg" width=25% height=25%>
 </p>
+
 ### Vista de Episodios
 
 En la vista de episodios, podrás ver el nombre del episodio, el número de capítulo, la temporada a la que pertenece y la fecha en que se emitió. Al igual que en la vista de personajes, hay botones de paginación para navegar a través de la lista de episodios.
